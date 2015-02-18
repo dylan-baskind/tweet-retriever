@@ -4,6 +4,9 @@ Thumbs.db
 *.maps
 *.swp
 
+# deploy
+run.sh
+
 # Vendor & build artifacts
 /**/node_modules
 
